@@ -526,7 +526,7 @@ body.nav-open .drawer { opacity: 1; visibility: visible; }
 }
 .contact::before {
   content: ''; position: absolute; inset: 0; z-index: -1; opacity: .16;
-  background-image: url('../images/hero-bg.jpg');
+  background-image: url('../images/our-team.jpg');
   background-size: cover; background-position: center;
 }
 .contact h2, .contact h3 { color: var(--white); }
