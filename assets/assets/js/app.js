@@ -22,7 +22,9 @@
     // Playlist — add or reorder clips here, nothing else to touch.
     // Each entry lists sources best-first; the browser picks what it can play.
     var PLAYLIST = [
-      { webm: 'assets/videos/hero.webm', mp4: 'assets/videos/hero.mp4' }
+      { webm: 'assets/videos/tower.webm', mp4: 'assets/videos/tower.mp4' }
+      { webm: 'assets/videos/construction.webm', mp4: 'assets/videos/construction.mp4' }
+      { webm: 'assets/videos/water.webm', mp4: 'assets/videos/water.mp4' }
     ];
 
     var layers = $$('.hero__layer', box);
